@@ -1,0 +1,348 @@
+TsubslidesDemo
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/Info.plist subslidesDemo/subslidesDemo-Info.plist
+cProcessPCH /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch.pth subslidesDemo/subslidesDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootSlideController.o /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/main.o /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootContentController.o /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/AppDelegate.o /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/SubslideController.o /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo normal i386
+cGenerateDSYMFile /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app.dSYM /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo
+cCompileXIB /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.xib
+cCompileXIB /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.xib
+cCopyStringsFile /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/en.lproj/InfoPlist.strings subslidesDemo/en.lproj/InfoPlist.strings
+cCompileXIB /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.xib
+cTouch /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004EEA95C30000000000000110
+t1323996611
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/AppDelegate.o
+t1333035648
+s51332
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootContentController.o
+t1333037001
+s49644
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootSlideController.o
+t1333037176
+s49248
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/SubslideController.o
+t1333036575
+s42656
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/main.o
+t1333033236
+s2748
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/subslidesDemo.LinkFileList
+c000000004F747CFE00000000000003B9
+t1333034238
+s953
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch.pth
+t1333033236
+s3915132
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app
+t1333037177
+s306
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app.dSYM
+t1333037177
+s102
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/Info.plist
+t1333033236
+s808
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/PkgInfo
+t1333033236
+s8
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/RootContentController.nib
+t1333037115
+s1076
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/RootSlideController.nib
+t1333037115
+s1017
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/SubslideController.nib
+t1333035818
+s1342
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/en.lproj/InfoPlist.strings
+t1333033236
+s42
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo
+t1333037177
+s32308
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/AppDelegate.h
+c000000004F7477A30000000000000126
+t1333032867
+s294
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/AppDelegate.m
+c000000004F7479B9000000000000095B
+t1333033401
+s2395
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.h
+c000000004F74824D000000000000018D
+t1333035597
+s397
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.m
+c000000004F7487C80000000000000919
+t1333037000
+s2329
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.xib
+c000000004F74883400000000000019E7
+t1333037108
+s6631
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.h
+c000000004F74807100000000000001B4
+t1333035121
+s436
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.m
+c000000004F74892800000000000008C9
+t1333037352
+s2249
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.xib
+c000000004F7488340000000000001915
+t1333037108
+s6421
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.h
+c000000004F7481AD0000000000000168
+t1333035437
+s360
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.m
+c000000004F74861D0000000000000585
+t1333036573
+s1413
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.xib
+c000000004F7483270000000000001F30
+t1333035815
+s7984
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/en.lproj/InfoPlist.strings
+c000000004F7477A3000000000000002D
+t1333032867
+s45
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/main.m
+c000000004F7477A30000000000000161
+t1333032867
+s353
+
+N/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/subslidesDemo-Prefix.pch
+c000000004F7477A30000000000000149
+t1333032867
+s329
+
+NsubslidesDemo/subslidesDemo-Info.plist
+c000000004F7477B00000000000000487
+t1333032880
+s1159
+
+CBuild AST from /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/AppDelegate.m
+r0
+
+CBuild AST from /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.m
+r0
+
+CBuild AST from /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.m
+r0
+
+CBuild AST from /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.m
+r0
+
+CBuild AST from /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesae10c2aac024b541^043ac3aac024b541^---0#1#0#--18"Check dependencies36"4531F82A-9B72-410F-9569-32C56BB82128-
+
+CCompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/AppDelegate.o /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354728448.839550
+e354728448.961834
+r1
+xCompileC
+xDerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/AppDelegate.o
+x/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/AppDelegate.mcf13d700ba24b541^c539f600ba24b541^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/AppDelegate.m0000000000000000^3318"CompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/AppDelegate.o subslidesDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-generated-files.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-own-target-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-all-target-headers.hmap -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-project-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/include -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources/i386 -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources -F/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator -include /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch -MMD -MT dependencies -MF /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/AppDelegate.d -c /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/AppDelegate.m -o /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/AppDelegate.o36"2BF771CF-8E7F-4DAE-88F2-E03941BC6B55-
+
+CCompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootContentController.o /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354729801.287705
+e354729801.362482
+r1
+xCompileC
+xDerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootContentController.o
+x/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.mffcb4949bf24b541^9fcb5c49bf24b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.m0000000000000000^3368"CompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootContentController.o subslidesDemo/RootContentController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-generated-files.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-own-target-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-all-target-headers.hmap -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-project-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/include -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources/i386 -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources -F/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator -include /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch -MMD -MT dependencies -MF /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootContentController.d -c /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.m -o /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootContentController.o36"E96408D1-262B-4A27-992C-7AC80BFA0D70-
+
+CCompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootSlideController.o /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354730154.784534
+e354730154.977443
+r1
+xCompileC
+xDerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootSlideController.o
+x/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.m69fec8aac024b541^083afaaac024b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.m0000000000000000^3358"CompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootSlideController.o subslidesDemo/RootSlideController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-generated-files.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-own-target-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-all-target-headers.hmap -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-project-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/include -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources/i386 -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources -F/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator -include /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch -MMD -MT dependencies -MF /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootSlideController.d -c /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.m -o /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/RootSlideController.o36"2AA3DB6C-65BB-4448-AB83-05FE918AB1F1-
+
+CCompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/SubslideController.o /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354729375.597196
+e354729375.775846
+r1
+xCompileC
+xDerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/SubslideController.o
+x/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.m50fc989fbd24b541^e99dc69fbd24b541^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.m0000000000000000^3353"CompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/SubslideController.o subslidesDemo/SubslideController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-generated-files.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-own-target-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-all-target-headers.hmap -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-project-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/include -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources/i386 -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources -F/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator -include /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch -MMD -MT dependencies -MF /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/SubslideController.d -c /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.m -o /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/SubslideController.o36"59C0FCBE-FF0E-41E6-AF84-F827FFD7CE21-
+
+CCompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/main.o /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354726036.387605
+e354726036.426253
+r1
+xCompileC
+xDerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/main.o
+x/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/main.mb6666394b024b541^a81e6d94b024b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/main.m0000000000000000^3283"CompileC DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/main.o subslidesDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-generated-files.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-own-target-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-all-target-headers.hmap -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-project-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/include -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources/i386 -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources -F/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator -include /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch -MMD -MT dependencies -MF /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/main.d -c /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/main.m -o /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/main.o36"23232CF6-2A3E-43BB-B45C-5B3367A86F74-
+
+CCompileXIB /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.xib
+s354729910.037121
+e354729915.179259
+r1
+xCompileXIB
+x/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compiling /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.xib469909b6bf24b541^cbf22dbbbf24b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.xib0000000000000000^774"CompileXIB subslidesDemo/RootContentController.xib    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/RootContentController.nib /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootContentController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"13F808AF-AFF7-4A5A-877A-0B558EB74F4E-
+
+CCompileXIB /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.xib
+s354729910.037125
+e354729915.179285
+r1
+xCompileXIB
+x/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compiling /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.xib529a09b6bf24b541^96e72dbbbf24b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.xib0000000000000000^768"CompileXIB subslidesDemo/RootSlideController.xib    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/RootSlideController.nib /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/RootSlideController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"AFD2FF89-0553-43B7-A934-04B9511AD053-
+
+CCompileXIB /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.xib
+s354728615.323001
+e354728618.244192
+r1
+xCompileXIB
+x/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.xib54c752a7ba24b541^5a9f3eaaba24b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.xib0000000000000000^765"CompileXIB subslidesDemo/SubslideController.xib    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/SubslideController.nib /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/SubslideController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"F003FCA2-8470-498D-968C-DA47046F0AFF-
+
+CCopyStringsFile /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/en.lproj/InfoPlist.strings subslidesDemo/en.lproj/InfoPlist.strings
+s354726036.542334
+e354726036.546033
+r1
+xCopyStringsFile
+x/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/en.lproj/InfoPlist.strings
+xsubslidesDemo/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy subslidesDemo/en.lproj/InfoPlist.strings7de88a94b024b541^dec98b94b024b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/en.lproj/InfoPlist.strings0000000000000000^617"CopyStringsFile DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/en.lproj/InfoPlist.strings subslidesDemo/en.lproj/InfoPlist.strings    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/en.lproj -- subslidesDemo/en.lproj/InfoPlist.strings36"C5180470-0BCD-4987-96B3-600E2C52B8F1-
+
+CGenerateDSYMFile /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app.dSYM /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo
+s354730155.042804
+e354730155.068041
+r1
+xGenerateDSYMFile
+x/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app.dSYM
+x/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Generating /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app.dSYM11180babc024b541^666b11abc024b541^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app.dSYM/0000000000000000^687"GenerateDSYMFile DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app.dSYM DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo -o /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app.dSYM36"A8411543-C2C9-4F6A-8893-758617AF60AB-
+
+CLd /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo normal i386
+s354730154.984439
+e354730155.035422
+r1
+xLd
+x/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Link /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo2a19fcaac024b541^ae1109abc024b541^---0#0#0#--1294"Ld DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo normal i386    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator -F/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator -filelist /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/Objects-normal/i386/subslidesDemo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/subslidesDemo36"C124409B-4C9E-49FE-9A5F-561B77BD050D-
+
+CProcessInfoPlistFile /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/Info.plist subslidesDemo/subslidesDemo-Info.plist
+s354726036.086867
+e354726036.090418
+r1
+xProcessInfoPlistFile
+x/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/Info.plist
+xsubslidesDemo/subslidesDemo-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process subslidesDemo/subslidesDemo-Info.plist3b511694b024b541^f0321794b024b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/subslidesDemo-Info.plist0000000000000000^751"ProcessInfoPlistFile DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/Info.plist subslidesDemo/subslidesDemo-Info.plist    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility subslidesDemo/subslidesDemo-Info.plist -genpkginfo /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app/Info.plist36"6CD68865-29B9-4146-BA25-769B666EE771-
+
+CProcessPCH /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch.pth subslidesDemo/subslidesDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354726036.098142
+e354726036.380869
+r1
+xProcessPCH
+x/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch.pth
+xsubslidesDemo/subslidesDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile subslidesDemo/subslidesDemo-Prefix.pch03441994b024b541^cd916194b024b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/subslidesDemo-Prefix.pch0000000000000000^3131"ProcessPCH DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch.pth subslidesDemo/subslidesDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-generated-files.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-own-target-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-all-target-headers.hmap -iquote /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/subslidesDemo-project-headers.hmap -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/include -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources/i386 -I/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Intermediates/subslidesDemo.build/Debug-iphonesimulator/subslidesDemo.build/DerivedSources -F/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator -c /Users/leon4uk/Documents/XCode/subslidesDemo/subslidesDemo/subslidesDemo-Prefix.pch -o /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch.pth -MMD -MT dependencies -MF /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/PrecompiledHeaders/subslidesDemo-Prefix-cfenhpanlhaxgpdvbanlvridluua/subslidesDemo-Prefix.pch.d36"401BEFE7-20C0-4DA9-BD03-80A08CB1D935-
+
+CProcessPCH /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Index/PrecompiledHeaders/subslidesDemo-Prefix-bosaumewzvkbwmdkuxfrjxnktteo_ast/subslidesDemo-Prefix.pch.pth subslidesDemo/subslidesDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app
+s354730155.084564
+e354730155.089561
+r1
+xTouch
+x/Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Touch /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app39b315abc024b541^78ed16abc024b541^---0#0#0#--418"Touch DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app    cd /Users/leon4uk/Documents/XCode/subslidesDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/leon4uk/Documents/XCode/subslidesDemo/DerivedData/subslidesDemo/Build/Products/Debug-iphonesimulator/subslidesDemo.app36"E56FCD41-C22C-4BDB-93AF-C7C9F280E8AB-
+
